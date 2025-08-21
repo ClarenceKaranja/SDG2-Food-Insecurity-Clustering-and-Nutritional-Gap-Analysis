@@ -1,0 +1,15 @@
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+statsmodels
+plotly
+streamlit
+geopandas  # For geospatial if needed
+torch  # For ML if needed
+requests  # For data download
+jupyter
+scipy
+dash
