@@ -21,7 +21,7 @@ Plain-language: We clean the data, explore patterns, build models to predict or 
 ![Undernourishment Trends](results/undernourishment_trends.png)
 
 ## How to Reproduce
-1. Clone repo: `git clone [url]`
+1. Clone repo: `git clone [https://github.com/ClarenceKaranja/SDG2-Food-Insecurity-Clustering-and-Nutritional-Gap-Analysis]`
 2. Install deps: `pip install -r requirements.txt`
 3. Download data: Follow links in data/data_sources.md (or run src/download_data.py if available)
 4. Run notebook: `jupyter notebook notebooks/main.ipynb`
